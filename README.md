@@ -32,10 +32,10 @@
 - 📚 Blog desde 2008 — “Dicas do Kastner”
 ---
 
-### 📈 Estatísticas do GitHub
+### 📈 Painel dinâmico
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=guikastner&show_icons=true&theme=radical"/>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=guikastner&theme=radical"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=guikastner&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&custom_title=GitHub%20Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guikastner&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8"/>
 </p>
 
 ---
