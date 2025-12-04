@@ -32,17 +32,6 @@
 - 📚 Blog desde 2008 — “Dicas do Kastner”
 ---
 
-### 📈 Painel dinâmico
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=guikastner)
-
-
-
-
----
-
-
-
 
 # Conexões
 
