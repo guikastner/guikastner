@@ -33,10 +33,8 @@
 ---
 
 ### 📈 Painel dinâmico
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=guikastner&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&custom_title=GitHub%20Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guikastner&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guikastner&show_icons=true&theme=midnight-purple&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guikastner&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8)
 
 ---
 
