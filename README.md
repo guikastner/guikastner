@@ -19,7 +19,7 @@
 ---
 
 ### 📌 Projetos em destaque
-<p align="center">
+<p>
   <a href="https://github.com/guikastner/terraform_04_n8n_3dx">
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/> terraform_04_n8n_3dx
   </a><br>
