@@ -19,10 +19,20 @@
 ---
 
 ### 📌 Projetos em destaque
-- 🔹 [terraform_04_n8n_3dx](https://github.com/guikastner/terraform_04_n8n_3dx)
-- 🔹 [terraform_03_minio_buckets](https://github.com/guikastner/terraform_03_minio_buckets)
-- 🔹 [terraform_02_cloudflare_tunnel_cnames](https://github.com/guikastner/terraform_02_cloudflare_tunnel_cnames)
-- 🔹 [arduino_01_r4_counter_00_99](https://github.com/guikastner/arduino_01_r4_counter_00_99)
+<p align="center">
+  <a href="https://github.com/guikastner/terraform_04_n8n_3dx">
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/> terraform_04_n8n_3dx
+  </a><br>
+  <a href="https://github.com/guikastner/terraform_03_minio_buckets">
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/> terraform_03_minio_buckets
+  </a><br>
+  <a href="https://github.com/guikastner/terraform_02_cloudflare_tunnel_cnames">
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/> terraform_02_cloudflare_tunnel_cnames
+  </a><br>
+  <a href="https://github.com/guikastner/arduino_01_r4_counter_00_99">
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/> arduino_01_r4_counter_00_99
+  </a>
+</p>
 
 ---
 
