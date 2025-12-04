@@ -33,7 +33,8 @@
 ---
 
 ### 📈 Painel dinâmico
-[![GuiKastner's GitHub stats](https://github-readme-stats.vercel.app/api?username=guikastner--)](https://github.com/guikastner/github-readme-stats)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=guikastner&show_icons=true&theme=midnight-purple&hide_border=true&cache_seconds=7200)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guikastner&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&cache_seconds=7200)
 
 ---
 
