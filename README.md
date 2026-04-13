@@ -20,8 +20,8 @@
 
 ### 📊 Estatisticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guikastner&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guikastner&layout=compact&hide_border=true" alt="Top languages"/>
+  <img src="https://stats.kastner.com.br/api?username=guikastner&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img src="https://stats.kastner.com.br/api/top-langs/?username=guikastner&layout=compact&hide_border=true" alt="Top languages"/>
 </p>
 
 ---
