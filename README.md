@@ -1,7 +1,7 @@
 <h2 align="center">🚀 Guilherme Kastner</h2>
 <p align="center">
-💼 Industry Process Consultant @ Dassault Systèmes <br>
-📍 Porto Alegre — Brazil <br>
+💼 Solution Architect @ Dassault Systèmes <br>
+📍 Porto Alegre Area — Brazil <br>
 🎯 Especialista em PLM | Automação | Node-RED | Docker | IoT
 </p>
 
